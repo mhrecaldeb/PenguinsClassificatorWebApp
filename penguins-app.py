@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 from sklearn.ensemble import RandomForestClassifier
 
-path = "E:/Proyectos de Python/AmazonWebScrapping/boxofficehome/boxoffice/"
+path = ""
 
 # cabecera del titulo de la página web
 st.write("""

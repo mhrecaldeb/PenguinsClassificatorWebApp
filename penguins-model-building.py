@@ -1,7 +1,7 @@
 import pandas as pd
 # se carga el data set de un archivo ya limpio
 # E:\Proyectos de Python\AmazonWebScrapping\boxofficehome\boxoffice
-path = "E:/Proyectos de Python/AmazonWebScrapping/boxofficehome/boxoffice/"
+path = ""
 penguins = pd.read_csv(path + "penguins_cleaned.csv")
 
 # Ordinal feature encoding
